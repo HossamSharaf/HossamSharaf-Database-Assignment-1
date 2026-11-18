@@ -1,2 +1,3 @@
-# HossamSharaf-Database-Assignment-1
-Assignment repo for assignment/1-10 (Database Assignment 1)
+## Details
+# Name:Hossam Shawky Sharaf Eldein
+# Group : 3
